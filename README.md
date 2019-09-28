@@ -1,2 +1,5 @@
 # world_height
-Average height of countries in the world in 2019
+The repo visualizes the average height of countries in the world in 2019
+
+# Language
+R
